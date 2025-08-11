@@ -3,7 +3,7 @@ requires = ["hatchling>=1.24"]
 build-backend = "hatchling.build"
 
 [project]
-name = "pipey-rl"
+name = "PyPi123"
 version = "0.1.0"
 description = "Tiny RL utilities: a minimal, well-documented Q-learning update (with optional Pipey wrapper)."
 readme = "README.md"
@@ -25,5 +25,5 @@ dependencies = [
 pipey = ["pipey>=0.1"]  # optional; install with: pip install pipey-rl[pipey]
 
 [project.urls]
-Homepage = "https://github.com/yourname/pipey-rl"
-Issues = "https://github.com/yourname/pipey-rl/issues"
+Homepage = "https://github.com/Nits1627/PyPi"
+Issues = "https://github.com/Nits1627/PyPi/issues"
